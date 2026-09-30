@@ -12,4 +12,4 @@ repository - a container where we can store the code files
 Step 1 = initilize your repository - source control 
 
 step 2 = added stage 
-step 3 = commit stage 
+step 3 = commit stage - check point create karti hai code ka 
