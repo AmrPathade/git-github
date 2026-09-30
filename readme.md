@@ -13,3 +13,7 @@ Step 1 = initilize your repository - source control
 
 step 2 = added stage 
 step 3 = commit stage - check point create karti hai code ka 
+
+
+e31c4a5 "modify the readme file"
+e31c4a5 is a id for commit 
