@@ -16,4 +16,23 @@ step 3 = commit stage - check point create karti hai code ka
 
 
 e31c4a5 "modify the readme file"
-e31c4a5 is a id for commit whenever we need to modify we can use
+e31c4a5 is a id for commit whenever we need to modify we can use.
+
+
+
+
+
+
+
+
+
+remember this for stages 
+U - untracked
+A - Added 
+M - Modify 
+C - Commit
+
+
+
+
+
